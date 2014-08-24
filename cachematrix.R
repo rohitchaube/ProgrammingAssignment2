@@ -1,5 +1,5 @@
 ## Prog Assign 2 - R Programming - Aug 2014 
-## Desc - A pair of functions that cacke the inverser of a matrix 
+## Desc - A pair of functions that cache the inverse of a matrix 
 
 ## Function name - makeCacheMatrix 
 ## Desc - This function creates a special matrix object that can cache its inverse
